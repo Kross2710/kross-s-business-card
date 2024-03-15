@@ -56,9 +56,8 @@ html {
     background-color: lightblue;
     padding: 15px;
     border-radius: 20px;
-    margin: 10px;
-    width: 60%;
-    margin: 0 auto;
+    margin: 10px auto;
+    width: 70%;
 }
 
 .card .contact:hover {
