@@ -22,22 +22,24 @@ html {
 .card #rmit-logo {
     width: 250px;
     margin: 15px;
+    transition: 0.5s ease-in-out;
 }
 
 .card #rmit-logo:hover {
     width: 300px;
-    transition: 0.5s;
+    transition: 0.5s ease-in-out;
 }
 
 .card #kross-photo {
     width: 250px;
     border-radius: 50%;
     border: 2px solid black;
+    transition: 0.5s ease-in-out;
 }
 
 .card #kross-photo:hover {
     width: 300px;
-    transition: 0.5s;
+    transition: 0.5s ease-in-out;
 }
 
 .card h2 {
@@ -58,13 +60,14 @@ html {
     border-radius: 20px;
     margin: 10px auto;
     width: 70%;
+    transition: 0.5s ease-in-out;
 }
 
 .card .contact:hover {
     padding: 20px;
     margin: 15px;
     margin: 0 auto;
-    transition: 0.5s;
+    transition: 0.5s ease-in-out;
 }
 
 .card .contact a {
